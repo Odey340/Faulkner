@@ -1,6 +1,6 @@
-# ✈️ PlaneTracker
+# Faulkner
 
-**PlaneTracker** is a lightweight web app that tells you when a plane is flying overhead, in real time. Using your location and live flight data, it identifies nearby aircraft and alerts you when one passes within a defined proximity above you.
+a lightweight web app that tells you when a plane is flying overhead, in real time. Using your location and live flight data, it identifies nearby aircraft and alerts you when one passes within a defined proximity above you.
 
 ---
 
